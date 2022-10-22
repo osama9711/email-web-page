@@ -13,10 +13,10 @@
 
 #search {
   border-radius: 50px;
-  width: 60%;
+  width: 40%;
   background-color: bisque;
   justify-content: center;
-  margin-left: 15%;
+  margin-left: 20%;
 
 }
 
@@ -26,6 +26,7 @@
 
 form {
   padding: 10px 30% 0;
+  border: solid #0ed8a2 3px;
   background-color: black;
 }
 
@@ -67,7 +68,7 @@ form {
   border-radius: 20px;
   border-color: red;
   font-size: 20px;
-  margin-left: 29px;
+  margin-left: 28px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -85,7 +86,7 @@ form {
   border-radius: 20px;
   border-color: red;
   font-size: 20px;
-  margin-left: 42px;
+  margin-left: 40px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -101,7 +102,7 @@ form {
   border-radius: 20px;
   border-color: red;
   font-size: 20px;
-  margin-left: 42px;
+  margin-left: 40px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -117,7 +118,7 @@ form {
   border-radius: 20px;
   border-color: rgb(255, 206, 8);
   font-size: 20px;
-  margin-left: 24px;
+  margin-left: 23px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
@@ -133,7 +134,7 @@ form {
   border-radius: 20px;
   border-color: rgb(255, 206, 8);
   font-size: 20px;
-  margin-left: 44px;
+  margin-left: 41px;
   margin-top: 10px;
   margin-bottom: 10px;
 }
